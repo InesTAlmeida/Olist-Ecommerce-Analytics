@@ -4,8 +4,8 @@ An interactive, data analytics project built to explore, visualize and extract s
 
 This repository contains the interactive Streamlit Web Application designed to bridge between static Exploratory Data Analysis (EDA) and dynamic business intelligence.
 
-**Live Project Link:** [Explore the Interactive Dashboard Live](METER_AQUI_O_LINK_DO_STREAMLIT)  
-**Kaggle Notebook:** [View the Complete End-to-End EDA]https://www.kaggle.com/datasets/quietluna/brazilian-e-commerce-dataset-by-olist
+**Live Project Link:** [Explore the Interactive Dashboard Live](Brazilian E-Commerce Public Dataset by Olist)  
+**Kaggle Notebook:** [View the Complete End-to-End EDA] (https://www.kaggle.com/code/quietluna/brazilian-e-commerce-public-dataset-by-olist)
 
 ---
 
